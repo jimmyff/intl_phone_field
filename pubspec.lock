@@ -159,10 +159,10 @@ packages:
     dependency: "direct main"
     description:
       name: intl_country_data
-      sha256: a1a24ec66d66ee23a6ea9530ebcfc7845eb74d878c0218cd657f5dc8f85088bb
+      sha256: "6f67014fab815ecdd312113d68f90998d8e91f861bc6282f0e540cf1229248a3"
       url: "https://pub.dev"
     source: hosted
-    version: "1.2.7"
+    version: "1.2.9"
   io:
     dependency: transitive
     description:
